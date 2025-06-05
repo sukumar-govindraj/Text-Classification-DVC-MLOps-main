@@ -1,10 +1,7 @@
 <!-- Badges -->
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/<USERNAME>/<REPO>/ci.yaml?branch=main\&label=CI)](https://github.com/<USERNAME>/<REPO>/actions)
-[![DVC Status](https://img.shields.io/badge/dvc-up%20to%20date-brightgreen)](https://dagshub.com/<USERNAME>/<REPO>)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-# YT-Capstone-Project
+#  Experimentaion, Text Classification & DVC Pipeline MLOps
 
 An end-to-end MLOps Capstone demonstrating a sentiment-analysis pipeline on IMDB reviews. This repository illustrates best practices for data versioning (DVC), experiment tracking (MLflow/Dagshub), containerization (Docker), Kubernetes deployment (blue-green), and monitoring.
 
